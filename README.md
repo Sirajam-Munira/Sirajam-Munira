@@ -1,8 +1,6 @@
 <h1 align="center">Hello, this is Sirajam Munira</h1>
 <h3 align="center">I am a recent graduate and working as a Software Engineer Trainee.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sirajam-munira" alt="sirajam-munira" /></a> </p>
-
 - I’m currently working at **BJIT**
 
 <h3 align="left">Connect with me:</h3>
