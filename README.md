@@ -1,7 +1,5 @@
 <h1 align="center">Hello, this is Sirajam Munira</h1>
-<h3 align="center">I am a recent graduate and working as a Software Engineer Trainee.</h3>
-
-- I’m currently working at **BJIT**
+<h3 align="center">Software Engineer Trainee at <a href="https://bjitgroup.com/">BJIT</a> and Graduated from <a href="https://juniv.edu/institute/iit">IIT-JU</a>. Visit my <a href="https://sirajam-munira.github.io/munira/">Portfolio</a> here.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
