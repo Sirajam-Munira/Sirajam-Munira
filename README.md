@@ -14,6 +14,3 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sirajam-munira&theme=light&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-
-
-[![Profile Views](https://visitcount.itsvg.in/api?id=sirajam-munira&icon=0&color=0)](https://visitcount.itsvg.in)
