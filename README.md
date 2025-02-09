@@ -1,9 +1,9 @@
 <h1 align="center">Hello, this is Sirajam Munira</h1>
-<h3 align="center">Software Engineer Trainee at <a href="https://bjitgroup.com/">BJIT</a> and Graduated from <a href="https://juniv.edu/institute/iit">IIT-JU</a>. Visit my <a href="https://sirajam-munira.github.io/munira/">Portfolio</a> here.</h3>
+<h3 align="center">PhD Scholar, Computer Science, Rensselaer Polytechnic University (<a href="https://www.rpi.edu/">RPI</a>)</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/sirajammunira-iitju" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sirajammunira-iitju" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/munirs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sirajammunira-iitju" height="30" width="40" /></a>
 <a href="https://www.behance.net/sirajammunira3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="sirajammunira3" height="30" width="40" /></a>
 </p>
 
